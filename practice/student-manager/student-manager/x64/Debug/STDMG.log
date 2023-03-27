@@ -1,0 +1,8 @@
+﻿  std_information.c
+C:\Users\KB\source\repos\STDMG\STDMG\std_information.c(32,22): warning C4098: 'showMenu': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\KB\source\repos\STDMG\STDMG\std_information.c(35,23): warning C4098: 'showMenu': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\KB\source\repos\STDMG\STDMG\std_information.c(38,23): warning C4098: 'showMenu': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\KB\source\repos\STDMG\STDMG\std_information.c(41,23): warning C4098: 'showMenu': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\KB\source\repos\STDMG\STDMG\std_information.c(45,4): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\KB\source\repos\STDMG\STDMG\std_information.c(51,21): warning C4098: 'showMenu': 'void' 함수에서 값을 반환하고 있습니다.
+  STDMG.vcxproj -> C:\Users\KB\source\repos\STDMG\x64\Debug\STDMG.exe
