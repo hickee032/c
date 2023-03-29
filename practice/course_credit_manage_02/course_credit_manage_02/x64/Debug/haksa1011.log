@@ -1,0 +1,14 @@
+﻿  file_util.c
+C:\Users\KB\source\repos\haksa1011_1\haksa1011\file_util.c(325,55): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char'과(와) 다릅니다.
+C:\Users\KB\source\repos\haksa1011_1\haksa1011\file_util.c(325,39): warning C4024: 'strcpy': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\KB\source\repos\haksa1011_1\haksa1011\file_util.c(346,48): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\KB\source\repos\haksa1011_1\haksa1011\file_util.c(346,33): warning C4024: 'strcpy': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\KB\source\repos\haksa1011_1\haksa1011\file_util.c(360,56): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char'과(와) 다릅니다.
+C:\Users\KB\source\repos\haksa1011_1\haksa1011\file_util.c(360,52): warning C4024: 'strcpy': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\KB\source\repos\haksa1011_1\haksa1011\file_util.c(361,56): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char'과(와) 다릅니다.
+C:\Users\KB\source\repos\haksa1011_1\haksa1011\file_util.c(361,52): warning C4024: 'strcpy': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\KB\source\repos\haksa1011_1\haksa1011\file_util.c(362,56): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char'과(와) 다릅니다.
+C:\Users\KB\source\repos\haksa1011_1\haksa1011\file_util.c(362,52): warning C4024: 'strcpy': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\KB\source\repos\haksa1011_1\haksa1011\file_util.c(384,19): warning C4098: 'dataProd': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\KB\source\repos\haksa1011_1\haksa1011\file_util.c(398,21): warning C4098: 'fileChacking': 'void' 함수에서 값을 반환하고 있습니다.
+  haksa1011.vcxproj -> C:\Users\KB\source\repos\haksa1011_1\x64\Debug\haksa1011.exe
